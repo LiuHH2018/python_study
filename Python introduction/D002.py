@@ -1,5 +1,5 @@
 # Q002
-# 16/02/2017, 21:16
+# 09/05/2018
 # Tag: recursion
 # Tag 1: input,factorial
 # Description: Write a program which can compute the factorial of a given numbers.
