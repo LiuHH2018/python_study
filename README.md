@@ -1,3 +1,3 @@
 # python_study
-Fighting!
-![image](../Resource/python.jpg)
+---
+![Alt text](/resources/python.jpg)
