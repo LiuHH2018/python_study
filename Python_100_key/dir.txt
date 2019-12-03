@@ -1,0 +1,17 @@
+./dir.txt
+./key000日常练习.ipynb
+./key001初识Python.ipynb
+./key002语言元素.ipynb
+./key003分支结构.ipynb
+./key004循环结构.ipynb
+./key005小结练习.ipynb
+./key006函数和模块的使用.ipynb
+./key007字符串和常用数据结构.ipynb
+./key008面向对象编程基础.ipynb
+./key009面向对象进阶.ipynb
+./module1.py
+./module2.py
+./module3.py
+./.ipynb_checkpoints\key000日常练习-checkpoint.ipynb
+./.ipynb_checkpoints\key007字符串和常用数据结构-checkpoint.ipynb
+./.ipynb_checkpoints\key009面向对象进阶-checkpoint.ipynb
